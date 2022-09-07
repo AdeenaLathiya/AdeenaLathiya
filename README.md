@@ -84,4 +84,5 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdeenaLathiya)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeenaLathiya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeenaLathiya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Adeena's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeenaLathiya&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
